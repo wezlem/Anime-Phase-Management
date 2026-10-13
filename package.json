@@ -1,0 +1,14 @@
+{
+  "name": "bolum-asama-sistemi",
+  "version": "1.0.0",
+  "description": "Anime bölümlerinin çeviri/redakte/encode/upload aşamasını takip eden Discord botu",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
